@@ -70,6 +70,7 @@ while(true){
 		cout<<"3. Clientes"<<endl;
 		cout<<"4. Ventas"<<endl;
 		cout<<"0. Salir"<<endl;
+		cout<<"0. Salir"<<endl;
 		cout<<"Ingrese la opción: "<<endl;
 		cin>>opc;
 		switch(opc)
